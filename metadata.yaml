@@ -1,5 +1,5 @@
 _repo: The-Rainbow-Cat_60923
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Grosvenor, Thelma Cudlipp
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '51190'
     url: http://www.gutenberg.org/2009/agents/51190
     wikipedia: https://en.wikipedia.org/wiki/Thelma_Cudlipp
+covers:
+- cover_type: archival
+  image_path: 60923-h/images/cover.jpg
 creator:
   author:
     agent_name: Fyleman, Rose
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50592
     wikipedia: https://en.wikipedia.org/wiki/Rose_Fyleman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60923#The-Rainbow-Cat
 gutenberg_issued: '2019-12-14'
 gutenberg_type: Text
 identifiers:
