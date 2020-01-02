@@ -1,0 +1,38 @@
+_repo: The-Rainbow-Cat_60923
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Grosvenor, Thelma Cudlipp
+    aliases:
+    - Whitman, Mrs. Charles S.
+    - Cudlipp, Thelma
+    - Whitman, Thelma Cudlipp
+    birthdate: 1892
+    deathdate: 1983
+    gutenberg_agent_id: '51190'
+    url: http://www.gutenberg.org/2009/agents/51190
+    wikipedia: https://en.wikipedia.org/wiki/Thelma_Cudlipp
+creator:
+  author:
+    agent_name: Fyleman, Rose
+    birthdate: 1877
+    deathdate: 1957
+    gutenberg_agent_id: '50592'
+    url: http://www.gutenberg.org/2009/agents/50592
+    wikipedia: https://en.wikipedia.org/wiki/Rose_Fyleman
+description: ''
+gutenberg_issued: '2019-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60923'
+  lccn: '23017905'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+- GITenberg
+title: The Rainbow Cat
+url: http://www.gutenberg.org/ebooks/60923
